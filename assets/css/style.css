@@ -1,0 +1,29 @@
+.margin5 {
+    margin: 5px;
+}
+.margin10 {
+    margin: 10px;
+}
+
+.padding10 {
+    padding: 10px;
+}
+
+.border {
+    border: 1px solid black;
+}
+
+.maxwidth95 {
+    max-width: 95%;
+}
+
+.playerBoard {
+    height: 300px;
+    background-color: lightblue;
+}
+
+.gameBoard {
+    width: 500px;
+    height: 300px;
+    background-color: lightgrey;
+}
